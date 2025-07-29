@@ -2,6 +2,11 @@
 
 A personal portfolio website to showcase my skills, projects, achievements, and contact information. Built with HTML, CSS, and JavaScript.
 
+## 🚀 Live Website
+
+👉 [Click here to view the portfolio](https://somu-nandi.github.io/portfolio/) 
+
+
 ## Features
 
 - Responsive design for all devices
